@@ -47,3 +47,22 @@ ul li{
   text-align: center;
   list-style: inside;
 }
+
+.main-grid div:nth-child(1):hover {
+  transform: scale(2.1);
+}
+.main-grid div:nth-child(2):hover {
+  transform: scale(2.1);
+}
+.main-grid div:nth-child(3):hover {
+  transform: scale(2.1);
+}
+.main-grid div:nth-child(4):hover {
+  transform: scale(2.1);
+}
+.main-grid div:nth-child(5):hover {
+  transform: scale(2.1);
+}
+.main-grid div:nth-child(6):hover {
+  transform: scale(2.1);
+}
